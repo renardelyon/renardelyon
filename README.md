@@ -5,6 +5,7 @@
 - [Gift Management System Backend](https://github.com/renardelyon/sut-gateway-go)
 - [grplot: lazy statistical data visualization (Collaborator/Maintainer)](https://github.com/ghiffaryr/grplot)
 - [AI Quant Assistant Commercial System (Collaborator)](https://github.com/ghiffaryr/AIQuantAssistant)
+- [Pronunciation Learning with Translator](https://github.com/icksannugrahaa/Pronunciation-Learning-with-Translator)
 - [Computer-Aided Detection of Lung Cancer from CT-scan Images with Visual Insights Using Deep Convolutional Neural Network (Collaborator)](https://github.com/ghiffaryr/lung_cancer_detection)
 - [Viral and Bacterial Pneumonia Classification from X-ray Images Using Deep Convolutional Neural Networks](https://github.com/renardelyon/viral-bacterial-pneumonia-classification)
 - [Instrumentation and Control System for Mushroom Cultivation](https://github.com/renardelyon/Capstone-Project)

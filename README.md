@@ -1,5 +1,5 @@
 ## Latest Projects
-- [Telegram Games Mini Apps with BlockChain Integration (Backend)](https://github.com/renardelyon/telegram-clicker-games-fe)
+- [Telegram Games Mini Apps with BlockChain Integration (Backend)](https://github.com/renardelyon/telegram-clicker-games-be)
 - [Telegram Games Mini Apps with BlockChain Integration (Frontend)](https://github.com/renardelyon/telegram-clicker-games-fe)
 - [Gift Management System Frontend](https://github.com/renardelyon/SUT-web)
 - [Gift Management System Backend](https://github.com/renardelyon/sut-gateway-go)

@@ -1,4 +1,5 @@
 ## Latest Projects
+- Full-stack AWS-native Recipe Recommendation App(https://github.com/renardelyon/recipe-recommendation-app)
 - [Tetra Fund Donation System build on Internet Computer](https://github.com/renardelyon/Tetra-fund)
 - [Telegram Games Mini Apps with BlockChain Integration (Backend)](https://github.com/renardelyon/telegram-clicker-games-be)
 - [Telegram Games Mini Apps with BlockChain Integration (Frontend)](https://github.com/renardelyon/telegram-clicker-games-fe)
